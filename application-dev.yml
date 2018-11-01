@@ -1,5 +1,3 @@
-test: 我是配置中心配置信息
-marathon-lb.bo.domainname: marathon-lb-bo.marathon.mesos
 app.datasource.actdb1.url: jdbc:oracle:thin:@134.32.30.132:3521:siact1db
 app.datasource.actdb1.username: si_shaoyong
 app.datasource.actdb1.password: stc_xiao9672
