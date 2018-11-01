@@ -1,4 +1,4 @@
-app.datasource.actdb1.url: jdbc:oracle:thin:@134.32.30.132:3521:siact1db
-app.datasource.actdb1.username: si_shaoyong
-app.datasource.actdb1.password: stc_xiao9672
-app.datasource.actdb1.driver-class-name: oracle.jdbc.driver.OracleDriver
+jdbc.oracle.act6.url: jdbc:oracle:thin:@134.32.30.132:3521:siact1db
+jdbc.oracle.act6.username: si_shaoyong
+jdbc.oracle.act6.password: stc_xiao9672
+jdbc.oracle.act6.driver-class-name: oracle.jdbc.driver.OracleDriver
